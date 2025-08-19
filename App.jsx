@@ -1,8 +1,8 @@
 import React from "react";
-import Header from "./components/Header";
-import Hero from "./components/Hero";
-import Features from "./components/Features";
-import Footer from "./components/Footer";
+import Header from "./src/components/Header";
+import Hero from "./src/components/Hero";
+import Features from "./src/components/Features";
+import Footer from "./src/components/Footer";
 import "./styles.css";
 
 export default function App() {
